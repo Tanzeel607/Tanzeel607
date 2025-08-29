@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanzeelurrehman)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanzeel-ur-rehman-915bb51bb/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tanzeel-portfolio-6007.vercel.app/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanzeelurrehman6007@gmail.com)
   
@@ -122,7 +122,7 @@ I'm always excited to collaborate on innovative AI projects and discuss the late
 
 **📧 Email:** tanzeelurrehman6007@gmail.com  
 **📱 Phone:** +92-3055598916  
-**📍 Location:** Wah Cantt, Rawalpindi, Pakistan
+**📍 Location:** Islamabad, Pakistan
 
 <br>
 
