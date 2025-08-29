@@ -134,7 +134,7 @@ I'm always excited to collaborate on innovative AI projects and discuss the late
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanzeelurrehman&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tanzeelurrehman&style=for-the-badge&color=blueviolet&label=Profile+Views&base=986" alt="Profile Views" />
   
   <br><br>
   
