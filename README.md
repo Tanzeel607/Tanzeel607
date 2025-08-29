@@ -1,181 +1,142 @@
-# Hey there! I'm Tanzeel Ur Rehman 👋
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hey there, I'm Tanzeel Ur Rehman
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6B46C1&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Full-Stack+Developer;4%2B+Years+of+Experience;Building+Intelligent+Solutions;Specializing+in+GenAI+%26+MLOps" alt="Typing SVG" />
+</div>
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-url.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanzeelurrehman6007@gmail.com)
-
-**AI Engineer | Machine Learning Specialist | Full-Stack Developer**
-
-*Building intelligent solutions that bridge the gap between artificial intelligence and real-world applications*
-
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanzeelurrehman)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanzeelurrehman6007@gmail.com)
+  
 </div>
 
----
+<br>
+
+<img align="right" alt="AI Animation" width="400" src="https://raw.githubusercontent.com/adam-p/animated-gifs/master/aimation.gif">
 
 ## 🚀 About Me
 
-I'm an **AI Engineer** with 4+ years of experience specializing in machine learning, deep learning, and generative AI. I'm passionate about building end-to-end AI solutions that solve real business problems and create meaningful impact.
+> Transforming ideas into intelligent solutions through AI and automation
 
-🔭 **Currently working on:** AI-powered Virtual Try-On systems and intelligent automation agents  
-🌱 **Learning:** Advanced MLOps practices and AI-driven business automation  
-👯 **Looking to collaborate on:** Open-source AI projects and innovative ML solutions  
-💬 **Ask me about:** Computer Vision, Generative AI, AI Agents, and MLOps  
-⚡ **Fun fact:** I've delivered 50+ AI projects to international clients across various industries!
+I'm an **AI Engineer** with a passion for building cutting-edge AI solutions that drive real business value. Currently working at **Codonomy**, I specialize in:
 
----
+- 🤖 **Generative AI & LLMs** - Building custom AI agents and RAG pipelines
+- 👁️ **Computer Vision** - Virtual try-on systems, medical imaging, object detection
+- 🔧 **MLOps & Production** - Deploying scalable AI solutions on cloud platforms
+- 💼 **Business Automation** - AI-driven sales, marketing, and workflow automation
+- 🌐 **Full-Stack Development** - End-to-end AI platforms with modern web technologies
 
-## 🛠️ Tech Stack
+<br clear="right"/>
 
-### **AI & Machine Learning**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=flat-square)
+## 💻 Tech Arsenal
 
-### **Generative AI & LLMs**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/🦜%20LangChain-2E8B57?style=flat-square)
-![LlamaIndex](https://img.shields.io/badge/🦙%20LlamaIndex-8A2BE2?style=flat-square)
+### 🧠 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### **Backend & APIs**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+### 🤖 Generative AI & Agents
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge&logo=llama&logoColor=white)
 
-### **Frontend & UI**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+### 🌐 Web Development
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### **Cloud & MLOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+### ☁️ Cloud & MLOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
----
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ## 🏆 Featured Projects
 
-### 🔥 [AI-Powered Virtual Try-On System](https://github.com/your-repo)
-**Tech Stack:** Python, TensorFlow, OpenCV, React.js, FastAPI, AWS SageMaker
-- End-to-end SaaS platform for fashion e-commerce with photorealistic virtual try-on
-- Computer vision pipelines with image segmentation and pose estimation
-- Scalable deployment using Docker, Kubernetes, and cloud MLOps workflows
-
-### 🤖 [AI Agents for Sales & Marketing Automation](https://github.com/your-repo)
-**Tech Stack:** LangChain, LlamaIndex, OpenAI APIs, FastAPI, Azure ML
-- Custom conversational AI agents for automated sales outreach and customer engagement
-- RAG pipelines for personalized responses using CRM data
-- API-based services with email and Slack integrations
-
-### 🚗 [Vehicle Damage Detection System](https://github.com/your-repo)
-**Tech Stack:** Python, TensorFlow, CNN, Computer Vision
-- CNN model for detecting and classifying vehicle damages (scratches, dents, cracks)
-- Advanced image preprocessing with augmentation techniques
-- Optimized performance using early stopping and learning rate scheduling
-
-### 🏥 [Skin Disease Detection](https://github.com/your-repo)
-**Tech Stack:** Python, TensorFlow, Transfer Learning, MobileNetV2
-- Medical image classification system using pre-trained CNN architectures
-- Applied transfer learning with dermoscopic image datasets
-- Implemented data augmentation and class balancing for improved accuracy
-
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=7&theme=dark"/>
+
+| 🎯 Project | 🛠️ Tech Stack | 📝 Description |
+|------------|---------------|----------------|
+| **[AI Virtual Try-On System](https://github.com/yourusername/virtual-tryon)** | Python, TensorFlow, OpenCV, FastAPI, AWS | End-to-end SaaS platform for fashion e-commerce with real-time virtual clothing try-on |
+| **[Sales & Marketing AI Agents](https://github.com/yourusername/ai-agents)** | LangChain, OpenAI, FastAPI, Azure ML | Custom conversational AI agents automating business workflows and customer engagement |
+| **[Vehicle Damage Detection](https://github.com/yourusername/vehicle-damage)** | TensorFlow, CNN, Computer Vision | Deep learning model detecting and classifying vehicle damages with 7,000+ images |
+| **[Skin Disease Classifier](https://github.com/yourusername/skin-disease)** | Transfer Learning, MobileNetV2, Medical AI | Medical image classification system for identifying multiple skin conditions |
+| **[Sentiment Analysis Engine](https://github.com/yourusername/sentiment-analysis)** | NLTK, TextBlob, NLP | Analyzed 400k+ Airbnb reviews to extract customer satisfaction insights |
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" alt="GitHub Streak" />
-</div>
-
----
-
-## 🎯 What I Do
+## 🎯 Current Focus
 
 ```python
-class AIEngineer:
+class TanzeelUrRehman:
     def __init__(self):
-        self.name = "Tanzeel Ur Rehman"
-        self.role = "AI Engineer"
-        self.languages = ["Python", "JavaScript", "TypeScript", "C#", "SQL"]
-        self.specialties = [
-            "Machine Learning & Deep Learning",
-            "Computer Vision & Image Processing", 
-            "Generative AI & LLMs",
-            "AI Agents & Automation",
-            "MLOps & Model Deployment",
-            "Full-Stack AI Applications"
-        ]
+        self.current_role = "AI Engineer @ Codonomy"
+        self.location = "Islamabad, Pakistan"
+        self.education = "BSc in Artificial Intelligence"
         
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
-
-me = AIEngineer()
-me.say_hi()
+    def current_projects(self):
+        return [
+            "🔮 Building AI-powered SaaS platforms",
+            "🤖 Developing intelligent business automation agents",
+            "☁️ Implementing MLOps workflows at scale",
+            "🧠 Fine-tuning LLMs for domain-specific applications"
+        ]
+    
+    def available_for(self):
+        return ["Collaboration", "Consulting", "Open Source", "Mentoring"]
 ```
 
----
+## 🌟 Professional Highlights
 
-## 🌟 Experience Highlights
+<div align="center">
 
-- **4+ years** of hands-on AI/ML experience
-- **50+ successful projects** delivered to international clients
-- **End-to-end AI solutions** from research to production
-- **Cross-functional collaboration** with business and technical teams
-- **Mentoring** junior engineers and contributing to team growth
+| 📈 Achievement | 🎯 Impact |
+|----------------|-----------|
+| **50+ Successful Projects** | Delivered AI solutions for international clients on Fiverr & Upwork |
+| **400k+ Data Points Analyzed** | Processed massive datasets for sentiment analysis and insights |
+| **End-to-End AI Products** | Built and deployed production-ready AI platforms from scratch |
+| **Cross-functional Leadership** | Mentored junior engineers and led collaborative AI initiatives |
 
----
-
-## 📈 Current Focus
-
-🔍 **Expanding expertise in:**
-- Advanced AI-driven business automation
-- Large Language Model fine-tuning and optimization
-- Scalable MLOps practices and infrastructure
-- Real-time AI inference systems
-
-💡 **Open to opportunities in:**
-- AI/ML Engineer roles
-- Generative AI projects
-- Computer Vision applications
-- AI consulting and technical leadership
-
----
+</div>
 
 ## 📫 Let's Connect!
 
-I'm always interested in connecting with fellow developers, AI enthusiasts, and potential collaborators. Whether you want to discuss the latest in AI, explore collaboration opportunities, or just say hi, feel free to reach out!
-
 <div align="center">
+  
+I'm always excited to collaborate on innovative AI projects and discuss the latest in machine learning and automation.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-Drop%20a%20Message-red?style=for-the-badge&logo=gmail)](mailto:tanzeelurrehman6007@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-orange?style=for-the-badge&logo=todoist)](https://your-portfolio-url.com)
+**📧 Email:** tanzeelurrehman6007@gmail.com  
+**📱 Phone:** +92-3055598916  
+**📍 Location:** Wah Cantt, Rawalpindi, Pakistan
 
-**⭐ From Pakistan 🇵🇰 with Code & AI**
+<br>
+
+### 💬 Open for:
+`🤝 Collaboration` `💼 Freelance Projects` `🧠 AI Consulting` `🎯 Full-time Opportunities`
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=tanzeelurrehman&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  
+  <br><br>
+  
+  <i>⚡ "Transforming data into intelligence, one model at a time" ⚡</i>
 </div>
